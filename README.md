@@ -4,16 +4,11 @@ A Streamlit-based application that allows you to upload PDF documents and intera
 
 ## 🎥 Demo Video
 
-<!-- Add your project implementation video here -->
-[![PDF Voice Assistant Demo](https://img.shields.io/badge/▶️%20Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](
 
-https://github.com/user-attachments/assets/b7b1a5f4-5bcb-4add-b337-23d39adbca6a
 
-)
+https://github.com/user-attachments/assets/91675a88-f7af-448f-8827-295f10e21e0a
 
-*Click the badge above to watch the full implementation and usage demo*
 
----
 
 ## ✨ Features
 
